@@ -156,7 +156,7 @@ table {
   .detail-background {
     background: transparent url('../resources/body/background.png') 0% 0% no-repeat padding-box; 
   }
-  .buton-group {
+  .detail-btn {
     color: #ffffff;
     background-color: #EC7AA1;
     border-radius: 25px;
